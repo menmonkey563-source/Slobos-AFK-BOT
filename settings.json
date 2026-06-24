@@ -8,7 +8,7 @@
   "server": {
     "ip": "fracturededSMP03.aternos.me",
     "port": 44543,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
